@@ -87,3 +87,14 @@ h1  {
     margin-left: 20px;
     margin-top: 16px;
 }
+
+.res-form {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.res-title {
+    width: 35%;
+    margin: 0 auto;
+}
