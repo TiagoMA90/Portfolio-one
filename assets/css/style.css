@@ -88,13 +88,51 @@ h1  {
     margin-top: 16px;
 }
 
-.res-form {
+
+/* Contact Form properties */
+
+.contact-form {
+    display: block;
     width: 35%;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
 }
 
-.res-title {
+.contact {
     width: 35%;
     margin: 0 auto;
+}
+
+fieldset    {
+    margin: 3em 0;
+    padding: 1em 2em;
+    border: solid 1px #3a3a3a;
+    border-radius: 5px;
+    width: 100%;
+    min-width: 200px;
+}
+
+label   {
+    display: block;
+    padding-top: 0.5em;
+    font-size: larger;
+}
+
+input   {
+    display: block;
+    padding: .25em;
+    border: solid 1px;
+}
+
+textarea   {
+
+    display: block;
+    padding: .25em;
+    border: solid 1px;
+
+}
+
+form    {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
