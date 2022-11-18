@@ -16,19 +16,24 @@ body    {
 
 h1  {
     font-family: Orbitron, sans-serif;
-    color: :#363636;
+    color: #363636;
 }
+
+/* Title properties */
 
 .title  {
     float: left;
     font-size: 300%;
     letter-spacing: 4px;
     color: #201f1f;
+    margin-left: 25px;
 }
 
 .title, .tabs   {
     line-height: 80px;
 }
+
+/* Tab properties */
 
 .tabs   {
     font-size: 200%;
@@ -49,4 +54,36 @@ h1  {
     text-decoration: none;
     color:#000000
     
+}
+
+/* Header image properties*/
+
+.header {
+    height: 500px;
+    width: 100%;
+    background: url('../images/header.png') no-repeat center center;
+}
+
+/* Panel properties */
+
+.left-panel {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+.footer-tab {
+    height: 50px;
+    width:100%;
+    background-color: #00000063;
+    position:fixed;
+    bottom:0;
+    left:0;
+    text-align: left;
+}
+
+.footer-note    {
+    font-size: 125%;
+    margin-left: 20px;
+    margin-top: 16px;
 }
