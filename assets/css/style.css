@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Manjari&display=swap');
+
+*   {
+    border: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+body    {
+    font-family: Manjari, sans-serif;
+    font-weight: 300;
+    color: #363636;
+    background: #e6ddcd;
+}
+
+h1  {
+    font-family: Orbitron, sans-serif;
+    color: :#363636;
+}
+
+.title  {
+    float: left;
+    font-size: 300%;
+    letter-spacing: 4px;
+    color: #201f1f;
+}
+
+.title, .tabs   {
+    line-height: 80px;
+}
+
+.tabs   {
+    font-size: 200%;
+}
+
+.tabs li    {
+    float: right;
+    list-style-type: none;
+    margin-right:  20px;
+}
+
+.tabs a {
+    text-decoration: none;
+    color:#4e4e4e
+}
+
+.tabs a:hover {
+    text-decoration: none;
+    color:#000000
+    
+}
