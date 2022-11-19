@@ -16,20 +16,22 @@ body    {
 
 h1  {
     font-family: Orbitron, sans-serif;
-    color: #363636;
 }
 
 p   {
     margin-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     font-size: 150%;
+    color: #777777;
 }
 
 hr  {
-    height: 2.5px;
+    height: 2px;
     width: 100%;
-    background: #36363671;
+    background: #363636;
     border-radius: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
 
 }
 
@@ -65,7 +67,7 @@ hr  {
 
 .tabs a {
     text-decoration: none;
-    color:#4e4e4e;
+    color:#777777;
 }
 
 .tabs a:hover {
