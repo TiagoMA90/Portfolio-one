@@ -41,10 +41,13 @@ hr  {
     letter-spacing: 4px;
     color: #201f1f;
     margin-left: 25px;
+    margin-right: 25px;
 }
 
 .title, .tabs   {
     line-height: 80px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 /* Tab properties */
@@ -56,17 +59,18 @@ hr  {
 .tabs li    {
     float: right;
     list-style-type: none;
-    margin-right:  20px;
+    margin-right:  25px;
+    margin-left: 25px;
 }
 
 .tabs a {
     text-decoration: none;
-    color:#4e4e4e
+    color:#4e4e4e;
 }
 
 .tabs a:hover {
     text-decoration: none;
-    color:#000000
+    color:#363636;
     
 }
 
@@ -136,8 +140,7 @@ fieldset    {
 
 label   {
     display: block;
-    padding-top: 0.5em;
-    font-size: larger;
+    padding-top: 0.5em;s
 }
 
 input   {
@@ -161,9 +164,22 @@ form    {
 }
 
 .window-form    {
-    margin-right: 20px;
+    margin-right: 25px;
+    margin-left: 20%;
+    width: 33%;
+    float: left;
 }
 
 .window-feedback    {
-    margin-left: 20px;
+    margin-left: 25px;
+    margin-right: 20%;
+    width: 33%;
+    float: right;
+}
+
+.submit {
+    height: 30px;
+    width: 50%;
+    margin-bottom: 50px;
+    float: left;
 }
