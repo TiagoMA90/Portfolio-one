@@ -21,6 +21,7 @@ h1  {
 
 p   {
     margin-top: 10px;
+    margin-bottom: 50px;
     font-size: 150%;
 }
 
@@ -158,6 +159,7 @@ form    {
     grid-template-columns: 1fr 1fr;
     margin-top: 50px;
 }
+
 .window-form    {
     margin-right: 20px;
 }
