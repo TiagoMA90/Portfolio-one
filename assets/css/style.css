@@ -156,6 +156,7 @@ textarea   {
 form    {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin-top: 50px;
 }
 .window-form    {
     margin-right: 20px;
