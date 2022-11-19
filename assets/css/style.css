@@ -79,10 +79,12 @@ hr  {
 
 /* Header image properties*/
 
-.header {
+.pic {
     height: 500px;
     width: 100%;
     background: url('../images/header.png') no-repeat center center;
+    background-size: 100%;
+    padding-top: 16%;
 }
 
 /* Panel properties */
@@ -180,4 +182,18 @@ form    {
     margin-bottom: 80px;
     width: 100%;
     float: left;
+}
+
+@media screen and (max-width: 700px) {
+
+    .title  {
+        text-align: center;
+        display: block;
+    }
+
+    nav {
+        font-size: 55%;
+        text-align: center;
+        display: block
+    }
 }
