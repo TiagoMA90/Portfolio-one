@@ -136,3 +136,10 @@ form    {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.window-form    {
+    margin-right: 20px;
+}
+
+.window-feedback    {
+    margin-left: 20px;
+}
