@@ -19,6 +19,19 @@ h1  {
     color: #363636;
 }
 
+p   {
+    margin-top: 10px;
+    font-size: 150%;
+}
+
+hr  {
+    height: 2.5px;
+    width: 100%;
+    background: #36363671;
+    border-radius: 50%;
+
+}
+
 /* Title properties */
 
 .title  {
@@ -67,9 +80,17 @@ h1  {
 /* Panel properties */
 
 .left-panel {
+    margin-left: 5%;
     padding-top: 30px;
     width: 33%;
     float: left;
+}
+
+.right-panel    {
+    margin-right: 5%;
+    padding-top: 30px;
+    width: 33%;
+    float: right;
 }
 
 .footer-tab {
