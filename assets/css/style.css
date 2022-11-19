@@ -63,6 +63,7 @@ hr  {
     list-style-type: none;
     margin-right:  25px;
     margin-left: 25px;
+    color:#777777;
 }
 
 .tabs a {
@@ -131,18 +132,9 @@ hr  {
     margin: 0 auto;
 }
 
-fieldset    {
-    margin: 3em 0;
-    padding: 1em 2em;
-    border: solid 1px #3a3a3a;
-    border-radius: 5px;
-    width: 100%;
-    min-width: 200px;
-}
-
 label   {
     display: block;
-    padding-top: 0.5em;s
+    padding-top: 0.5em;
 }
 
 input   {
@@ -166,22 +158,26 @@ form    {
 }
 
 .window-form    {
-    margin-right: 25px;
-    margin-left: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
     width: 33%;
     float: left;
 }
 
 .window-feedback    {
-    margin-left: 25px;
-    margin-right: 20%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 30px;
     width: 33%;
     float: right;
 }
 
 .submit {
-    height: 30px;
-    width: 50%;
-    margin-bottom: 50px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    width: 100%;
     float: left;
 }
