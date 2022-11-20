@@ -91,16 +91,20 @@ hr  {
 .left-panel {
     margin-left: 5%;
     padding-top: 30px;
-    width: 33%;
-    float: left;
+    width: 90%;
 }
 
 .right-panel    {
     margin-right: 5%;
     padding-top: 30px;
-    width: 33%;
-    float: right;
+    width: 90%;
 }
+
+.index-panel {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 
 footer  p {
     background-color: #363636;
@@ -114,9 +118,6 @@ footer  p {
 .sauna-panel    {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-}
-
-.sauna-panel    {
     margin-left: 1%;
 }
 
@@ -201,6 +202,11 @@ form    {
         font-size: 60%;
         text-align: center;
         display: block
+    }
+
+    .index-panel    {
+        text-align: center;
+        display: block;
     }
 
     .main-panel {
