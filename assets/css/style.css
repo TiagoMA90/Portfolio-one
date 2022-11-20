@@ -87,7 +87,7 @@ hr  {
     padding-top: 16%;
 }
 
-/* Panel properties */
+/* Home Panel properties */
 
 .left-panel {
     margin-left: 5%;
@@ -119,6 +119,18 @@ hr  {
     margin-top: 16px;
 }
 
+/* About panel and Image properties */
+
+.sauna-panel    {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+img {
+    height: 50%;
+    width: 95%;
+}
 
 /* Contact Form properties */
 
@@ -192,6 +204,12 @@ form    {
     }
 
     nav {
+        font-size: 55%;
+        text-align: center;
+        display: block
+    }
+
+    .sauna-panel {
         font-size: 55%;
         text-align: center;
         display: block
