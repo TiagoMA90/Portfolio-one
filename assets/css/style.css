@@ -102,20 +102,11 @@ hr  {
     float: right;
 }
 
-.footer-tab {
-    height: 50px;
-    width:100%;
-    background-color: #00000063;
-    position:fixed;
-    bottom:0;
-    left:0;
-    text-align: left;
-}
-
-.footer-note    {
-    font-size: 125%;
-    margin-left: 20px;
-    margin-top: 16px;
+footer  p {
+    background-color: #363636;
+    color: #aaaaaa;
+    font-size: smaller;
+    margin: 0 0 0 0;
 }
 
 /* About panel and Image properties */
