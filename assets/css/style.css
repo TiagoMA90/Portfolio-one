@@ -27,7 +27,7 @@ p   {
 
 hr  {
     height: 2px;
-    width: 100%;
+    width: 80%;
     background: #363636;
     border-radius: 50%;
     margin-top: 5px;
@@ -126,6 +126,9 @@ hr  {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+.sauna-panel    {
+    margin-left: 1%;
+}
 
 img {
     height: 50%;
@@ -204,14 +207,15 @@ form    {
     }
 
     nav {
-        font-size: 55%;
+        font-size: 60%;
         text-align: center;
         display: block
     }
 
     .sauna-panel {
-        font-size: 55%;
         text-align: center;
         display: block
     }
+
+
 }
