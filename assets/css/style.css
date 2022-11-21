@@ -46,16 +46,17 @@ hr  {
     margin-right: 25px;
 }
 
-.title, .tabs   {
-    line-height: 80px;
-    margin-left: 25px;
-    margin-right: 25px;
+.subtitle   {
+    margin: auto;
+    text-align: center;
 }
 
 /* Tab properties */
 
 .tabs   {
     font-size: 200%;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 .tabs li    {
@@ -63,6 +64,7 @@ hr  {
     list-style-type: none;
     margin-right:  25px;
     margin-left: 25px;
+    margin-top: 25px;
     color:#777777;
 }
 
@@ -85,6 +87,7 @@ hr  {
     background: url('../images/header.png') no-repeat center center;
     background-size: 100%;
     padding-top: 16%;
+    object-fit: cover;
 }
 
 /* Home Panel properties */
@@ -105,6 +108,10 @@ hr  {
     grid-template-columns: 1fr 1fr;
 }
 
+.schedule-panel, table   {
+    margin: auto;
+    text-align: center;
+}
 
 footer  p {
     background-color: #363636;
