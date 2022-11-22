@@ -23,36 +23,19 @@
         </nav>
     </header>
         <div class="pic"></div>
-    <section class="contact-form">
-            <h2 class="contact">
-                Contact us
-            </h2>
-            <form action="#" method="post">
-                <div class="window-form">
-                    <div>
-                        <label for="fname">First name:</label>
-                        <input id="fname" type="text" name="fname">
+        <div class="form-field">
+                <form action="#" method="post">
+                    <h2 class="title-contact">Contact Us</h2>
+                    <div class="input-field">
+                    <input class="fname" type="text" placeholder="First Name">
+                    <input class="lname" type="text" placeholder="Last Name">
+                    <input class="email" type="text" placeholder="Your Email*" required>
+                    <textarea class="textarea" required></textarea>
+                    <label for="submit"></label>
+                    <input class="submit" type="submit"></input>
                     </div>
-                    <div>
-                        <label for="lname">Last name:</label>
-                        <input id="lname" type="text" name="lname">
-                    </div>
-                    <div>
-                        <label for="email">E-mail:</label>
-                        <input id="email" type="email" name="email" placeholder="*" required>
-                    </div>
-                    <div>
-                        <input class="submit" type="submit" value="submit">
-                    </div>
-                </div>
-                <div class="window-feedback">
-                    <div>
-                        <label for="feedback">Feedback:</label>
-                        <textarea id="feedback" cols="50" rows="15" name="feedback" placeholder="Tell us what is on your mind"></textarea>
-                    </div>
-                </div>
-            </form>
-    </section>
+                </form>
+        </div>
 </body>
 <footer>
     <p>Sauna World</p>

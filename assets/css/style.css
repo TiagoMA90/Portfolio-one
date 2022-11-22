@@ -142,67 +142,40 @@ img {
 
 
 /* Contact Form properties */
-
-.contact-form {
-    display: block;
-    width: 35%;
-    margin: 0 auto;
-    text-align: left;
+.title-contact  {
+    margin-bottom: 10px;
 }
 
-.contact {
-    width: 35%;
-    margin: 0 auto;
+.form-field {
+    margin: auto;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
 }
 
-label   {
-    display: block;
-    padding-top: 0.5em;
+.contact-field  {
+	max-width: 850px;
+	text-align: center;
+    margin: auto;
 }
 
-input   {
-    display: block;
-    padding: .25em;
-    border: solid 1px;
+.fname, .lname, .email, .textarea, .submit  {
+	width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: #ffffff;
+	padding: 2%;
+	margin-bottom: 22px;
 }
 
-textarea   {
-
-    display: block;
-    padding: .25em;
-    border: solid 1px;
-
+.submit  {
+    background-color: #363636;
+    color: #ffffff;
 }
 
-form    {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    margin-top: 50px;
-}
-
-.window-form    {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 30px;
-    width: 33%;
-    float: left;
-}
-
-.window-feedback    {
-    margin-right: 5%;
-    margin-left: 5%;
-    margin-top: 30px;
-    width: 33%;
-    float: right;
-}
-
-.submit {
-    margin-right: 5%;
-    margin-left: 5%;
-    margin-top: 50px;
-    margin-bottom: 80px;
-    width: 100%;
-    float: left;
+textarea{
+	min-height: 150px;
 }
 
 @media screen and (max-width: 700px) {
@@ -232,6 +205,11 @@ form    {
     }
 
     .sauna-panel {
+        text-align: center;
+        display: block;
+    }
+
+    .f.window-form, .window-feedback {
         text-align: center;
         display: block;
     }
