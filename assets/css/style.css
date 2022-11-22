@@ -20,7 +20,7 @@ h1  {
 
 p   {
     margin-top: 10px;
-    margin-bottom: 80px;
+    margin-bottom: 30px;
     font-size: 150%;
     color: #777777;
 }
@@ -174,7 +174,7 @@ img {
     color: #ffffff;
 }
 
-textarea{
+textarea    {
 	min-height: 150px;
 }
 
