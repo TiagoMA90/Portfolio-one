@@ -109,9 +109,13 @@ hr  {
     grid-template-columns: 1fr 1fr;
 }
 
-.schedule-panel, table   {
+.schedule-panel, table  {
     margin: auto;
     text-align: center;
+}
+
+th   {
+    padding-right: 10px;
 }
 
 footer  p {
