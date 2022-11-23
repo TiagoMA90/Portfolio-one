@@ -92,6 +92,7 @@ hr  {
 }
 
 /* Home Panel properties */
+
 .left-panel {
     margin-left: 5%;
     padding-top: 30px;
@@ -142,6 +143,7 @@ img {
 
 
 /* Contact Form properties */
+
 .title-contact  {
     margin-bottom: 10px;
 }
@@ -160,7 +162,7 @@ img {
     margin: auto;
 }
 
-.fname, .lname, .email, .textarea, .submit  {
+.fname, .lname, .email, .textarea, #submit  {
 	width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -169,7 +171,7 @@ img {
 	margin-bottom: 22px;
 }
 
-.submit  {
+#submit  {
     background-color: #363636;
     color: #ffffff;
 }
@@ -177,6 +179,8 @@ img {
 textarea    {
 	min-height: 150px;
 }
+
+/* Media Queries */
 
 @media screen and (max-width: 700px) {
     .title  {
@@ -187,7 +191,13 @@ textarea    {
     nav {
         font-size: 60%;
         text-align: center;
-        display: block
+        display: block;
+    }
+
+    .tabs   {
+        text-align: center;
+        display: block;
+        margin: auto;
     }
 
     .index-panel    {
