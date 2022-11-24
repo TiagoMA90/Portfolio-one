@@ -205,6 +205,11 @@ textarea    {
 	min-height: 150px;
 }
 
+.redirect {
+    margin: auto;
+    text-align: center;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 700px) {
