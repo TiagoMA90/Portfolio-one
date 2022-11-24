@@ -35,7 +35,7 @@ hr  {
 
 }
 
-/* Title properties */
+//* Title properties */
 
 .title  {
     float: left;
@@ -54,32 +54,31 @@ hr  {
 
 /* Tab properties */
 
-.tabs   {
-    font-size: 200%;
-    margin-left: 25px;
-    margin-right: 25px;
+.title {
+    margin-left: 5%;
+    padding-top: 30px;
+    width: 90%;
 }
 
-.tabs li    {
-    float: right;
+.tabs    {
+    margin-right: 5%;
+    padding-top: 30px;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     list-style-type: none;
-    margin-right:  25px;
-    margin-left: 25px;
-    margin-top: 25px;
-    color:#777777;
+    text-align: right;
+    font-size: 25px;
+    margin-left: 5%;
+    padding-top: 30px;
+    width: 90%;
 }
 
-.tabs a {
-    text-decoration: none;
-    color:#777777;
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: auto;
 }
-
-.tabs a:hover {
-    text-decoration: none;
-    color:#363636;
-    
-}
-
 /* Header image properties*/
 
 .pic {
