@@ -40,34 +40,28 @@ hr  {
 
 }
 
-//* Title properties */
+/* Title properties */
 
 .title  {
     float: left;
-    font-size: 300%;
+    font-size: 60px;
     letter-spacing: 4px;
     color: #201f1f;
-    margin-left: 25px;
+    margin-left: 5%;
     margin-right: 25px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
-.subtitle   {
-    margin: auto;
-    text-align: center;
+header a    {
+    text-decoration: none;
+    color: #201f1f;
+    font-size: 30px;
 }
 
 /* Tab properties */
 
-.title {
-    margin-left: 5%;
-    padding-top: 30px;
-    width: 90%;
-}
-
 .tabs    {
     margin-right: 5%;
-    padding-top: 30px;
     width: 90%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -79,23 +73,39 @@ hr  {
     width: 90%;
 }
 
+.tabs a {
+    text-decoration: none;
+    color:#777777;
+}
+
+.tabs a:hover {
+    color:#363636;
+    
+}
+
 header {
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin: auto;
+    padding-top: 10px;
 }
 /* Header image properties*/
 
 .pic {
     height: 60px;
     width: 100%;
-    background: url(../images/headerpic.png) no-repeat center bottom;
+    background: url(../images/pic.webp) no-repeat center bottom;
     background-size: 100%;
-    padding-top: 29vw;
+    padding-top: 26vw;
     object-fit: cover;
 }
 
 /* Home Panel properties */
+
+.subtitle   {
+    margin: auto;
+    text-align: center;
+}
 
 .left-panel {
     margin-left: 5%;
@@ -198,6 +208,7 @@ textarea    {
 /* Media Queries */
 
 @media screen and (max-width: 700px) {
+
     .title  {
         text-align: center;
         display: block;
@@ -207,6 +218,7 @@ textarea    {
         font-size: 60%;
         text-align: center;
         display: block;
+        margin: auto;
     }
 
     .tabs   {
@@ -223,20 +235,18 @@ textarea    {
         margin-left: 5%;
     }
 
-    .main-panel {
+    .main-panel, .sauna-panel, .form-field {
         text-align: center;
         display: block;
     }
+}
 
-    .sauna-panel {
+@media screen and (max-width: 480px) {
+
+    header {
+        display: grid;
+        grid-template-columns: 100%;
         text-align: center;
-        display: block;
+        align-items: center;
     }
-
-    .form-field {
-        text-align: center;
-        display: block;
-    }
-
-
 }
