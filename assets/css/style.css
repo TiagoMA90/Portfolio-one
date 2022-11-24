@@ -18,6 +18,11 @@ h1  {
     font-family: Orbitron, sans-serif;
 }
 
+
+h2  {
+    padding-top: 25px;
+}
+
 p   {
     margin-top: 10px;
     margin-bottom: 30px;
@@ -82,11 +87,11 @@ header {
 /* Header image properties*/
 
 .pic {
-    height: 500px;
+    height: 60px;
     width: 100%;
-    background: url('../images/headerpic.png') no-repeat center center;
+    background: url(../images/headerpic.png) no-repeat center bottom;
     background-size: 100%;
-    padding-top: 10%;
+    padding-top: 29vw;
     object-fit: cover;
 }
 
