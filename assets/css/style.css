@@ -76,6 +76,7 @@ header a    {
 .tabs a {
     text-decoration: none;
     color:#777777;
+    padding-left: 20px;
 }
 
 .tabs a:hover {
@@ -212,7 +213,7 @@ textarea    {
 .redirect {
     margin: auto;
     text-align: center;
-    padding-bottom: 80px;
+    padding-bottom: 150px;
 }
 
 /* Media Queries */
