@@ -273,26 +273,7 @@ textarea    {
 
     .tabs, .tabs a  {
         text-align: center;
-        display: flex;
-        margin: auto;
-        grid-gap: 20px;
-    }
-
-}
-
-@media screen and (max-width: 280px) {
-
-    header {
-        display: grid;
-        grid-template-columns: 100%;
-        text-align: center;
-        align-items: center;
-    }
-
-    .tabs, .tabs a  {
-        font-size: medium;
-        text-align: center;
-        display: flex;
+        display: block;
         margin: auto;
         grid-gap: 20px;
     }
