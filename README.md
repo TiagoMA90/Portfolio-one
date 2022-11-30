@@ -54,6 +54,7 @@ Credits
 
 Content:
 - The text on this site was written my the author of this Website.
+- The Fade-in transition for @keyframes on this website, was implememted following the tutorial in this blog post: https://blog.hubspot.com/website/css-fade-in#image-transition
 
 Icons:
 - The Icons displayed in this website were imported from FontAwesome.
