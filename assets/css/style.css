@@ -227,6 +227,11 @@ textarea    {
     padding-bottom: 150px;
 }
 
+audio   {
+    display: flex;
+    margin: auto;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 768px) {
