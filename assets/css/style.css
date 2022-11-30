@@ -18,15 +18,11 @@ body    {
     background: #e6ddcd;
 }
 
-body { animation: fadeIn 0.5s; }
+body { animation: fadeIn 0.2s; }
 
 @keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
+    0% {opacity: 0;}
+    100% {opacity: 1;}
   }
 
 h1  {
@@ -120,6 +116,8 @@ header {
 
 .subtitle   {
     margin: auto;
+    margin-left: 5px;
+    margin-right: 5px;
     text-align: center;
 }
 
