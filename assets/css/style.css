@@ -18,7 +18,7 @@ body    {
     background: #e6ddcd;
 }
 
-body { animation: fadeIn 0.2s; }
+body { animation: fadeIn 0.3s; }
 
 @keyframes fadeIn {
     0% {opacity: 0;}
