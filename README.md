@@ -11,12 +11,12 @@ Navigation:
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
 - The links are highlighted when the cursor hovers over the selected elements, giving a more intreactive feeling to it.
 
-<img src="/workspace/Portfolio-one/assets/css/screenshots/Nav_1.webp" alt="navigation">
+<img src="assets/css/screenshots/Nav_1.webp" alt="navigation">
 
 Header
 - Is a background image of the common area of our Sauna area. It gives the users an idea of how our public facilities looks like.
 
-<img src="/workspace/Portfolio-one/assets/css/screenshots/head.webp" alt="header">
+<img src="assets/css/screenshots/head.webp" alt="header">
 
 About:
 - The "About" page gives a slightly detailed description of the Saunas we have in our Spa.
@@ -26,13 +26,13 @@ Contact:
 - The "Contact" page lets users provide feedback about their experiences and services. Users are required to provide their email in order to submit their message.
 - Once a message has been submited, users are greeted with a "Thank you" message, sking them to be redirected to the "Home" page.
 
-<img src="/workspace/Portfolio-one/assets/css/screenshots/form.webp" alt="form">
+<img src="assets/css/screenshots/form.webp" alt="form">
 
 Footer
 - The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
 - It also includes links to the social media sites that externally open. The use of icons were imported from FontAwesome.
 
-<img src="/workspace/Portfolio-one/assets/css/screenshots/foot.webp" lat="footer">
+<img src="assets/css/screenshots/foot.webp" lat="footer">
 
 Testing:
 - This project was tested under Chrome DevTools, using the Device Tool bar.
@@ -43,7 +43,7 @@ Testing:
 - The website was tested for responsiveness and its viewports, under bytes.dev:
 https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html
 
-<img src="/workspace/Portfolio-one/assets/css/screenshots/Resp_1.webp" alt="ui">
+<img src="assets/css/screenshots/Resp_1.webp" alt="ui">
 
 
 Validation:
