@@ -23,11 +23,12 @@ About:
 Contact:
 - The "Contact" page lets users provide feedback about their experiences and services. Users are required to provide their email in order to submit their message.
 - Once a message has been submited, users are greeted with a "Thank you" message, sking them to be redirected to the "Home" page.
+![](screenshots/form.webp)
 
 Footer
 - The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
 - It also includes links to the social media sites that externally open. The use of icons were imported from FontAwesome.
-<img src="/workspace/Portfolio-one/assets/images/readme/foot.webp" alt="FooterSS">
+
 
 Testing:
 - This project was tested under Chrome DevTools, using the Device Tool bar.
