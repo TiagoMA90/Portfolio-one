@@ -6,8 +6,6 @@ Visitors of this website will find useful information about our Spa.
 Opening times, current price listings, contact information, furthermore to be able to share their opinion about our services.
 The website is targeted to people who are looking for leisure activities, wellness and therapeutic experiences.
 
-# Website
-
 ## Navigation:
 - The Icon is located at the Top-Left of the screen entitled Sauna World.
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
@@ -44,6 +42,7 @@ Footer
 - The Logo, Menu and overall Text is readable making use of Orbitron and Manjari fonts.
 - The links work and are correctly assigned to link to a other pages.
 - The Form works and users are required to input their e-mail before sending any feedback. The action is set to "#" and the method is set to "get". The first and last names are not mandatory and therefore optional.
+- The website was tested in browsers Chrome, Firefox and Edge.
 - The website was tested for responsiveness and its viewports, under bytes.dev:
 
 https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html
