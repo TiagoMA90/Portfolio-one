@@ -6,23 +6,25 @@ Visitors of this website will find useful information about our Spa.
 Opening times, current price listings, contact information, furthermore to be able to share their opinion about our services.
 The website is targeted to people who are looking for leisure activities, wellness and therapeutic experiences.
 
-Navigation:
+# Website
+
+## Navigation:
 - The Icon is located at the Top-Left of the screen entitled Sauna World.
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
 - The links are highlighted when the cursor hovers over the selected elements, giving a more intreactive feeling to it.
 
 <img src="assets/css/screenshots/Nav_1.webp" alt="navigation">
 
-Header
+## Header
 - Is a background image of the common area of our Sauna area. It gives the users an idea of how our public facilities looks like.
 
 <img src="assets/css/screenshots/head.webp" alt="header">
 
-About:
+## About:
 - The "About" page gives a slightly detailed description of the Saunas we have in our Spa.
 - It includes icons imported from FontAwesome.
 
-Contact:
+## Contact:
 - The "Contact" page lets users provide feedback about their experiences and services. Users are required to provide their email in order to submit their message.
 - Once a message has been submited, users are greeted with a "Thank you" message, sking them to be redirected to the "Home" page.
 
@@ -34,7 +36,9 @@ Footer
 
 <img src="assets/css/screenshots/foot.webp" lat="footer">
 
-Testing:
+# Assay
+
+## Testing:
 - This project was tested under Chrome DevTools, using the Device Tool bar.
 - This project is responsive and displays a pleasing style to viewers, with colors of contrast.
 - The Logo, Menu and overall Text is readable making use of Orbitron and Manjari fonts.
@@ -47,35 +51,32 @@ https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index
 <img src="assets/css/screenshots/Resp_1.webp" alt="ui">
 
 
-Validation:
+## Validation:
 - All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever.
 - All pages were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided Chrome DevTools, with favorable scores.
 
-Desktop:
+## Desktop:
 <img src="assets/css/screenshots/lhdesktop.webp" alt="Lighthouse Desktop">
 
-Mobile:
+## Mobile:
 <img src="assets/css/screenshots/lhmobile.webp" alt="Lighthouse Mobile">
 
-Deployment:
+## Deployment:
 - This Website was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The active website can be found here: https://tiagoma90.github.io/Portfolio-one/index.html
 
-Credits
+# Credits
 
-Content:
+## Content:
 - The text on this site was written my the author of this Website himself.
 - The Fade-in transition for @keyframes on this website, was implememted following the tutorial in this blog post: https://blog.hubspot.com/website/css-fade-in#image-transition
 
-Icons:
+## Icons:
 - The Icons displayed in this website were imported from FontAwesome.
 
-Media:
+## Media:
 - The images in this website were photographed by the Author of this Website himself.
 - The music displayed on "About" page is entitled "Bless those tired eyes" performed by Clem Leek and © 2012 Brian Records.
-
-This website depicts a fictional Sauna, with a fictional presentation of services.
-The development of this project started with back and forth of experimentations.
