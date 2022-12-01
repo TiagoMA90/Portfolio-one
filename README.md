@@ -10,11 +10,13 @@ Navigation:
 - The Icon is located at the Top-Left of the screen entitled Sauna World.
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
 - The links are highlighted when the cursor hovers over the selected elements, giving a more intreactive feeling to it.
-// Insert picture here of the devices.
+
+<img src="/workspace/Portfolio-one/assets/css/screenshots/Nav_1.webp" alt="navigation">
 
 Header
 - Is a background image of the common area of our Sauna area. It gives the users an idea of how our public facilities looks like.
-// Insert picture here for the header
+
+<img src="/workspace/Portfolio-one/assets/css/screenshots/head.webp" alt="header">
 
 About:
 - The "About" page gives a slightly detailed description of the Saunas we have in our Spa.
@@ -23,12 +25,14 @@ About:
 Contact:
 - The "Contact" page lets users provide feedback about their experiences and services. Users are required to provide their email in order to submit their message.
 - Once a message has been submited, users are greeted with a "Thank you" message, sking them to be redirected to the "Home" page.
-![](screenshots/form.webp)
+
+<img src="/workspace/Portfolio-one/assets/css/screenshots/form.webp" alt="form">
 
 Footer
 - The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
 - It also includes links to the social media sites that externally open. The use of icons were imported from FontAwesome.
 
+<img src="/workspace/Portfolio-one/assets/css/screenshots/foot.webp" lat="footer">
 
 Testing:
 - This project was tested under Chrome DevTools, using the Device Tool bar.
@@ -38,6 +42,8 @@ Testing:
 - The Form works and users are required to input their e-mail before sending any feedback. The action is set to "#" and the method is set to "get". The first and last names are not mandatory and therefore optional.
 - The website was tested for responsiveness and its viewports, under bytes.dev:
 https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html
+
+<img src="/workspace/Portfolio-one/assets/css/screenshots/Resp_1.webp" alt="ui">
 
 
 Validation:
