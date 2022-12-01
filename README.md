@@ -41,6 +41,7 @@ Testing:
 - The links work and are correctly assigned to link to a other pages.
 - The Form works and users are required to input their e-mail before sending any feedback. The action is set to "#" and the method is set to "get". The first and last names are not mandatory and therefore optional.
 - The website was tested for responsiveness and its viewports, under bytes.dev:
+
 https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html
 
 <img src="assets/css/screenshots/Resp_1.webp" alt="ui">
@@ -49,7 +50,12 @@ https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index
 Validation:
 - All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever.
 - All pages were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided Chrome DevTools, with favorable scores.
-*ScreenshotS*
+
+Desktop:
+<img src="assets/css/screenshots/lhdesktop.webp" alt="Lighthouse Desktop">
+
+Mobile:
+<img src="assets/css/screenshots/lhmobile.webp" alt="Lighthouse Mobile">
 
 Deployment:
 - This Website was deployed to GitHub pages. The steps to deploy are as follows:
