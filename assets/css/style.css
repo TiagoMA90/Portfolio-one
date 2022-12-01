@@ -101,6 +101,7 @@ header {
     margin: auto;
     padding-top: 10px;
 }
+
 /* Header image properties*/
 
 .pic {
@@ -241,7 +242,7 @@ audio   {
     margin: auto;
 }
 
-/* Media Queries */
+/* Media Queries properties*/
 
 @media screen and (max-width: 768px) {
 
