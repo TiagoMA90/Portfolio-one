@@ -66,7 +66,7 @@ https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The active website can be found here: https://tiagoma90.github.io/Portfolio-one/index.html
+The active website can be found here: https://tiagoma90.github.io/sauna-world/index.html
 
 # Credits
 
@@ -74,8 +74,9 @@ The active website can be found here: https://tiagoma90.github.io/Portfolio-one/
 - The text on this site was written my the author of this Website himself.
 - The Fade-in transition for @keyframes on this website, was implememted following the tutorial in this blog post: https://blog.hubspot.com/website/css-fade-in#image-transition
 
-## Icons:
-- The Icons displayed in this website were imported from FontAwesome.
+## Fonts & Icons:
+- The Fonts displayed in this website were imported from Google Fonts: https://fonts.google.com/knowledge
+- The Icons displayed in this website were imported from FontAwesome: https://fontawesome.com/
 
 ## Media:
 - The images in this website were photographed by the Author of this Website himself.
