@@ -51,7 +51,7 @@ https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index
 
 
 ## Validation:
-- All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever.
+- All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever, via URL and Direct Input.
 - All pages were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided Chrome DevTools, with favorable scores.
 
 ## Desktop:
@@ -62,10 +62,7 @@ https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index
 
 ## Deployment:
 - This Website was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The active website can be found here: https://tiagoma90.github.io/sauna-world/
+The website was deployed via github and can be found here: https://tiagoma90.github.io/sauna-world/
 
 # Credits
 
