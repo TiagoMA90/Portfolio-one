@@ -151,6 +151,10 @@ th, td   {
     border-radius: 5%;
 }
 
+div.container {
+    min-height: calc (100% - 70px);
+}
+
 footer a  {
     color:#777777;
     font-size:x-large;
