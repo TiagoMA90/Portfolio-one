@@ -174,7 +174,7 @@ footer  p {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin-left: 1%;
-    padding: 50px 50px 0px 50px;
+    padding: 50px 50px 50px 50px;
 }
 
 img {
