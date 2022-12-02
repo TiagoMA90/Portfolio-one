@@ -178,12 +178,14 @@ footer  p {
     grid-template-columns: 1fr 1fr 1fr;
     margin-left: 1%;
     padding: 50px 50px 50px 50px;
+    column-gap: 10px;
 }
 
 img {
     height: 50%;
-    width: 95%;
+    width: 100%;
     border-radius: 2%;
+    
 }
 
 /* Contact Form properties */
