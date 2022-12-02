@@ -7,9 +7,9 @@ Opening times, current price listings, contact information, furthermore to be ab
 The website is targeted to people who are looking for leisure activities, wellness and therapeutic experiences.
 
 ## Navigation:
-- The Icon is located at the Top-Left of the screen entitled Sauna World.
+- The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of Orbitron fonts.
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
-- The links are highlighted when the cursor hovers over the selected elements, giving a more intreactive feeling to it.
+- The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it.
 
 <img src="assets/css/screenshots/Nav_1.webp" alt="navigation">
 
@@ -18,19 +18,33 @@ The website is targeted to people who are looking for leisure activities, wellne
 
 <img src="assets/css/screenshots/head.webp" alt="header">
 
+## Index:
+- The "Index" page gives information and lets the user know what the site is about.
+- It gives a brief introduction to our services and the opening times of our facilities.
+
 ## About:
 - The "About" page gives a slightly detailed description of the Saunas we have in our Spa.
-- It includes icons imported from FontAwesome.
+- It includes icons imported from FontAwesome, and briefly describes the tempearte, humity and average time a guest should be in a particular sauna.
 
 ## Contact:
-- The "Contact" page lets users provide feedback about their experiences and services. Users are required to provide their email in order to submit their message.
-- Once a message has been submited, users are greeted with a "Thank you" message, sking them to be redirected to the "Home" page.
+- The "Contact" page lets users provide feedback about their experiences and our services. Users are required to provide their email in order to submit their message.
+
+Contact form
+The form consists of the following fields (labels have been hidden, making use of the placeholder instead):
+First Name (not required)
+Last Name (not required)
+Email (required)
+Message (required)
+
+- Once a message has been submited, users are directed to another page (redirect.html), while being greeted with a "Thank you" message and asking them to be redirected to the "Home" page.
+This will allow useres to contact 'Sauna World' if they inquire make reservations beforehand or provide any sort of feedback.
 
 <img src="assets/css/screenshots/form.webp" alt="form">
 
 Footer
 - The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
-- It also includes links to the social media sites that externally open. The use of icons were imported from FontAwesome.
+- It also includes links to the social media sites that open on external pages. Furthermore, it lets users access explore other platforms where the website Sauna is being promoted.
+- The use of icons was imported from FontAwesome.
 
 <img src="assets/css/screenshots/foot.webp" lat="footer">
 
@@ -38,13 +52,13 @@ Footer
 
 ## Testing:
 - This project was tested under Chrome DevTools, using the Device Tool bar.
-- This project is responsive and displays a pleasing style to viewers, with colors of contrast.
-- The Logo, Menu and overall Text is readable making use of Orbitron and Manjari fonts.
-- The links work and are correctly assigned to link to a other pages.
-- The Form works and users are required to input their e-mail before sending any feedback. The action is set to "https://8000-tiagoma90-saunaworld-pauka0dxyz0.ws-eu77.gitpod.io/redirect.html?" and the method is set to "post". The first and last names are not mandatory and therefore optional.
-- The website was tested in browsers Chrome, Firefox and Edge.
-- The website was tested for responsiveness and its viewports, under bytes.dev:
 
+
+- This project is responsive and displays a pleasing style to viewers, with colors contrasting each other. (In particular: Text #363636 & Background: #e6ddcd);
+- The links work and are correctly assigned, allowing users to easily navigate between the pages within the wesite, on any given device.
+- The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to "https://8000-tiagoma90-saunaworld-pauka0dxyz0.ws-eu77.gitpod.io/redirect.html?" and the method is set to "post". (The first and last names are not mandatory and therefore optional.)
+- The website was tested in browsers Chrome, Firefox and Edge for its compatibility.
+- The website was tested for responsiveness and its viewports, under bytes.dev:
 https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html
 
 <img src="assets/css/screenshots/Resp_1.webp" alt="ui">
@@ -52,17 +66,36 @@ https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index
 
 ## Validation:
 - All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever, via URL and Direct Input.
+
+// add picture here //
+
 - All pages were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided by Chrome DevTools, with favorable scores.
 
+// Delete & Update pictures here //
 ## Desktop:
 <img src="assets/css/screenshots/lhdesktop.webp" alt="Lighthouse Desktop">
 
 ## Mobile:
 <img src="assets/css/screenshots/lhmobile.webp" alt="Lighthouse Mobile">
 
-## Deployment:
-- This Website was deployed to GitHub pages. The steps to deploy are as follows:
-The website was deployed via github and can be found here: https://tiagoma90.github.io/sauna-world/
+## Technologies
+
+Languages
+- HTML5 - Structure
+- CSS3 - Style
+
+Other
+- Tiny PNG - Image compresser
+- Convertio - Image converter
+- Font Awesome - Source of icons
+- Github - Host of repository
+- Gitpod - Code editor
+- Chrome DevTools - Tester
+- WAVE Evaluation tool - Tester
+
+## Deployment
+
+- The website was deployed via Github and can be found here: https://tiagoma90.github.io/sauna-world/
 
 # Credits
 
