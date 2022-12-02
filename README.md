@@ -52,7 +52,7 @@ https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index
 
 ## Validation:
 - All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever, via URL and Direct Input.
-- All pages were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided Chrome DevTools, with favorable scores.
+- All pages were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided by Chrome DevTools, with favorable scores.
 
 ## Desktop:
 <img src="assets/css/screenshots/lhdesktop.webp" alt="Lighthouse Desktop">
