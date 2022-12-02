@@ -17,14 +17,13 @@ body    {
     color: #363636;
     background: #e6ddcd;
 }
-
-body { animation: fadeIn 0.3s; }
+main { animation: fadeIn 0.3s; }
 
 @keyframes fadeIn {
     0% {opacity: 0;}
     100% {opacity: 1;}
   }
-
+  
 h1  {
     font-family: Orbitron, sans-serif;
 }
