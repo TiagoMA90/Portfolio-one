@@ -41,7 +41,7 @@ Footer
 - This project is responsive and displays a pleasing style to viewers, with colors of contrast.
 - The Logo, Menu and overall Text is readable making use of Orbitron and Manjari fonts.
 - The links work and are correctly assigned to link to a other pages.
-- The Form works and users are required to input their e-mail before sending any feedback. The action is set to "#" and the method is set to "get". The first and last names are not mandatory and therefore optional.
+- The Form works and users are required to input their e-mail before sending any feedback. The action is set to "https://8000-tiagoma90-saunaworld-pauka0dxyz0.ws-eu77.gitpod.io/redirect.html?" and the method is set to "post". The first and last names are not mandatory and therefore optional.
 - The website was tested in browsers Chrome, Firefox and Edge.
 - The website was tested for responsiveness and its viewports, under bytes.dev:
 
