@@ -9,6 +9,22 @@ The website is targeted to people who are looking for leisure activities, wellne
 # Live Project
 The live website can be found [here](https://tiagoma90.github.io/sauna-world/index.html).
 
+## Purpose of the website.
+- To promote the Spa facilities and attract consumers, in and outside the area.
+- To inform guests and give an idea to users about the Saunas and services.
+- To invite and inspire users to visit and regularly attend the Spa.
+
+## Target Audience
+- People who want to take advantage of wellness and leisure through relaxation, after physical activities, such as sport.
+- People who are primarly in search of therapy as a way to improve their health conditions.
+
+## Design and Styling
+- The website was designed with the intent of having a colour pallete of contrast, that are in parallel with the Spa itself.
+- The color Hex #e6ddcd would then emulate the wooden properties of the Sauna while the #363636 and #777777 would mimic stone surfaces of the same.
+<img src="assets/screenshots/colors.webp" alt="Color palette">
+
+- The Fonts used fo the titles and text were Orbitron for teh logo and 
+
 ## Navigation:
 - The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of Orbitron fonts.
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.

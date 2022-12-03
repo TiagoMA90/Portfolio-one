@@ -1,6 +1,6 @@
 /* Imported Fonts */
 
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Manjari&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Megrim&family=Athiti&display=swap');
 
 /* Overall properties */
 
@@ -12,7 +12,7 @@
 }
 
 body    {
-    font-family: Manjari, sans-serif;
+    font-family: Athiti, sans-serif;
     font-weight: 300;
     color: #363636;
     background: #e6ddcd;
@@ -25,7 +25,7 @@ main { animation: fadeIn 0.3s; }
   }
   
 h1  {
-    font-family: Orbitron, sans-serif;
+    font-family: Megrim, sans-serif;
 }
 
 
