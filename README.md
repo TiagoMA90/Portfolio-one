@@ -23,13 +23,14 @@ The live website can be found [here](https://tiagoma90.github.io/sauna-world/ind
 - The color Hex #e6ddcd would then emulate the wooden properties of the Sauna while the #363636 and #777777 would mimic stone surfaces of the same.
 <img src="assets/screenshots/colors.webp" alt="Color palette">
 
-- The Fonts used fo the titles and text were Orbitron for teh logo and 
+- The Fonts used for the titles and text is [Athiti](https://fonts.google.com/specimen/Athiti?query=athiti).
 
 ## Navigation:
-- The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of Orbitron fonts.
+- The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of [Megrim](https://fonts.google.com/specimen/Megrim?query=megrim) fonts.
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
 - The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it.
 
+UPDATE THIS PICTURES
 <img src="assets/screenshots/Nav_1.webp" alt="navigation">
 
 ## Header
