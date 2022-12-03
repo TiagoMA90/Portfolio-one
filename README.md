@@ -27,17 +27,15 @@ The website is targeted to people who are looking for leisure activities, wellne
 - It includes icons imported from FontAwesome, and briefly describes the tempearte, humity and average time a guest should be in a particular sauna.
 
 ## Contact:
-- The "Contact" page lets users provide feedback about their experiences and our services. Users are required to provide their email in order to submit their message.
+The "Contact" page lets users provide feedback about their experiences and our services. Users are required to provide their email in order to submit their message.
+The Form consists of the following fields (labels have been hidden, making use of the placeholder instead):
 
-Contact form
-The form consists of the following fields (labels have been hidden, making use of the placeholder instead):
-First Name (not required)
-Last Name (not required)
-Email (required)
-Message (required)
+- First Name (not required)
+- Last Name (not required)
+- Email (required)
+- Message (required)
 
-- Once a message has been submited, users are directed to another page (redirect.html), while being greeted with a "Thank you" message and asking them to be redirected to the "Home" page.
-This will allow useres to contact 'Sauna World' if they inquire make reservations beforehand or provide any sort of feedback.
+Once a message has been submited, users are directed to another page (redirect.html), while being greeted with a "Thank you" message and asking them to be redirected to the "Home" page.
 
 <img src="assets/screenshots/form.webp" alt="form">
 
