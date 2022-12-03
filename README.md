@@ -11,12 +11,12 @@ The website is targeted to people who are looking for leisure activities, wellne
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
 - The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it.
 
-<img src="assets/css/screenshots/Nav_1.webp" alt="navigation">
+<img src="assets/screenshots/Nav_1.webp" alt="navigation">
 
 ## Header
 - Is a background image of the common area of our Sauna area. It gives the users an idea of how our public facilities looks like.
 
-<img src="assets/css/screenshots/head.webp" alt="header">
+<img src="assets/screenshots/head.webp" alt="header">
 
 ## Index:
 - The "Index" page gives information and lets the user know what the site is about.
@@ -39,14 +39,14 @@ Message (required)
 - Once a message has been submited, users are directed to another page (redirect.html), while being greeted with a "Thank you" message and asking them to be redirected to the "Home" page.
 This will allow useres to contact 'Sauna World' if they inquire make reservations beforehand or provide any sort of feedback.
 
-<img src="assets/css/screenshots/form.webp" alt="form">
+<img src="assets/screenshots/form.webp" alt="form">
 
-Footer
+## Footer
 - The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
 - It also includes links to the social media sites that open on external pages. Furthermore, it lets users access explore other platforms where the website Sauna is being promoted.
 - The use of icons was imported from FontAwesome.
 
-<img src="assets/css/screenshots/foot.webp" lat="footer">
+<img src="assets/screenshots/foot.webp" lat="footer">
 
 # Assay
 
@@ -61,22 +61,38 @@ Footer
 - The website was tested for responsiveness and its viewports, under bytes.dev:
 https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html
 
-<img src="assets/css/screenshots/Resp_1.webp" alt="ui">
+<img src="assets/screenshots/Resp_1.webp" alt="ui">
 
 
-## Validation:
-- All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever, via URL and Direct Input.
+# Validation:
+All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever, via URL and Direct Input.
 
-// add picture here //
+## index.html
+<details><img src="assets/screenshots/validateindex.webp" alt="Validate Index"></details>
+
+## about.html
+<details><img src="assets/screenshots/validateabout.webp" alt="Validate About"></details>
+
+## contact.html
+<details><img src="assets/screenshots/validatecontact.webp" alt="Validate Contact"></details>
+
+## redirect.html
+<details><img src="assets/screenshots/validateredirect.webp" alt="Validate Redirect"></details>
+
+## .css
+<details><img src="assets/screenshots/validatecss.webp" alt="Validate CSS"></details>
+
+
+# DevTools & Lighthouse
 
 - All pages were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided by Chrome DevTools, with favorable scores.
 
 // Delete & Update pictures here //
 ## Desktop:
-<img src="assets/css/screenshots/lhdesktop.webp" alt="Lighthouse Desktop">
+<img src="assets/screenshots/lhdesktop.webp" alt="Lighthouse Desktop">
 
 ## Mobile:
-<img src="assets/css/screenshots/lhmobile.webp" alt="Lighthouse Mobile">
+<img src="assets/screenshots/lhmobile.webp" alt="Lighthouse Mobile">
 
 ## Technologies
 
@@ -93,9 +109,9 @@ Other
 - Chrome DevTools - Tester
 - WAVE Evaluation tool - Tester
 
-## Deployment
-
-- The website was deployed via Github and can be found here: https://tiagoma90.github.io/sauna-world/
+## Development & Deployment
+- The project was developed using GitHub and GitPod platforms.
+- The website was deployed via Github and the live version can be found here: https://tiagoma90.github.io/sauna-world/
 
 # Credits
 
