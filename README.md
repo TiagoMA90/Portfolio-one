@@ -6,6 +6,9 @@ Visitors of this website will find useful information about our Spa.
 Opening times, current price listings, contact information, furthermore to be able to share their opinion about our services.
 The website is targeted to people who are looking for leisure activities, wellness and therapeutic experiences.
 
+# Live Project
+The live website can be found [here](https://tiagoma90.github.io/sauna-world/index.html).
+
 ## Navigation:
 - The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of Orbitron fonts.
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
@@ -54,16 +57,15 @@ Once a message has been submited, users are directed to another page (redirect.h
 
 - This project is responsive and displays a pleasing style to viewers, with colors contrasting each other. (In particular: Text #363636 & Background: #e6ddcd);
 - The links work and are correctly assigned, allowing users to easily navigate between the pages within the wesite, on any given device.
-- The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to "https://8000-tiagoma90-saunaworld-pauka0dxyz0.ws-eu77.gitpod.io/redirect.html?" and the method is set to "post". (The first and last names are not mandatory and therefore optional.)
+- The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to direct users to a greeting page and the method is set to "post". (The first and last names are not mandatory and therefore optional.)
 - The website was tested in browsers Chrome, Firefox and Edge for its compatibility.
-- The website was tested for responsiveness and its viewports, under bytes.dev:
-https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html
+- The website was tested for responsiveness and its viewports, under [bytes.dev](https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html)
 
 <img src="assets/screenshots/Resp_1.webp" alt="ui">
 
 
 # Validation:
-All .html and .css pages of this website were validated through https://validator.w3.org/#validate_by_input and found no errors or warnings whatsoever, via URL and Direct Input.
+All .html and .css pages of this website were validated through [validator.w3.org](https://validator.w3.org/#validate_by_input) and found no errors or warnings whatsoever, via URL and Direct Input.
 
 ## index.html
 <details><img src="assets/screenshots/validateindex.webp" alt="Validate Index"></details>
@@ -109,17 +111,17 @@ Other
 
 ## Development & Deployment
 - The project was developed using GitHub and GitPod platforms.
-- The website was deployed via Github and the live version can be found here: https://tiagoma90.github.io/sauna-world/
+- The website was deployed via Github and the live version can be found [here](https://tiagoma90.github.io/sauna-world/)
 
 # Credits
 
 ## Content:
 - The text on this site was written my the author of this Website himself.
-- The Fade-in transition for @keyframes on this website, was implememted following the tutorial in this blog post: https://blog.hubspot.com/website/css-fade-in#image-transition
+- The Fade-in transition for @keyframes on this website, was implememted following the tutorial in this [blog post](https://blog.hubspot.com/website/css-fade-in#image-transition)
 
 ## Fonts & Icons:
-- The Fonts displayed in this website were imported from Google Fonts: https://fonts.google.com/knowledge
-- The Icons displayed in this website were imported from FontAwesome: https://fontawesome.com/
+- The Fonts displayed in this website were imported from [Google Fonts](https://fonts.google.com/knowledge)
+- The Icons displayed in this website were imported from [FontAwesome](https://fontawesome.com/)
 
 ## Media:
 - The images in this website were photographed by the Author of this Website himself.
