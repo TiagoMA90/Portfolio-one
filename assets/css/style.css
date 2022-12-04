@@ -179,6 +179,12 @@ footer  {
 }
 
 img {
+    width: 100%;
+    border-radius: 2%;
+    
+}
+
+.imgsauna {
     height: 50%;
     width: 100%;
     border-radius: 2%;
@@ -191,7 +197,7 @@ img {
 .pool-panel    {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    padding: 50px 50px 50px 50px;
+    padding: 50px 50px 0px 50px;
     column-gap: 10px;
 }
 
@@ -256,7 +262,7 @@ audio   {
 
 /* Media Queries properties*/
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px)    {
 
     .title  {
         text-align: center;
