@@ -176,7 +176,6 @@ footer  {
 .sauna-panel    {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    margin-left: 1%;
     padding: 50px 50px 50px 50px;
     column-gap: 10px;
 }
@@ -186,6 +185,16 @@ img {
     width: 100%;
     border-radius: 2%;
     
+}
+
+
+/* Pool panel properties */
+
+.pool-panel    {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px 50px 50px 50px;
+    column-gap: 10px;
 }
 
 /* Contact Form properties */
@@ -283,6 +292,11 @@ audio   {
 @media screen and (max-width: 868px) {
 
     .sauna-panel {
+        text-align: center;
+        display: block;
+    }
+
+    .pool-panel {
         text-align: center;
         display: block;
     }
