@@ -72,6 +72,7 @@ Once a message has been submited, users are directed to another page (redirect.h
 - The links work and are correctly assigned, allowing users to easily navigate between the pages within the wesite, on any given device.
 - The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to direct users to a greeting page and the method is set to "post". (The first and last names are not mandatory and therefore optional.)
 - The website was tested in browsers Chrome, Firefox and Edge for its compatibility.
+- This website was tested using chromes extension WAVE Web Accessibility Evaluation Tool.
 - The website was tested for responsiveness and its viewports, under [bytes.dev](https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html)
 
 <img src="assets/screenshots/bytesdevresp.webp" alt="ui">
