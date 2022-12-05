@@ -31,12 +31,10 @@ The live website can be found [here](https://tiagoma90.github.io/sauna-world/ind
 - The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it.
 
 UPDATE THIS PICTURES
-<img src="assets/screenshots/Nav_1.webp" alt="navigation">
 
 ## Header
 - Is a background image of the common area of our Sauna area. It gives the users an idea of how our public facilities looks like.
 
-<img src="assets/screenshots/head.webp" alt="header">
 
 ## Index:
 - The "Index" page gives information and lets the user know what the site is about.
@@ -78,26 +76,13 @@ Once a message has been submited, users are directed to another page (redirect.h
 - The website was tested in browsers Chrome, Firefox and Edge for its compatibility.
 - The website was tested for responsiveness and its viewports, under [bytes.dev](https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html)
 
-<img src="assets/screenshots/Resp_1.webp" alt="ui">
+<img src="assets/screenshots/bytesdevresp.webp" alt="ui">
 
 
 # Validation:
 All .html and .css pages of this website were validated through [validator.w3.org](https://validator.w3.org/#validate_by_input) and found no errors or warnings whatsoever, via URL and Direct Input.
 
-## index.html
-<details><img src="assets/screenshots/validateindex.webp" alt="Validate Index"></details>
-
-## about.html
-<details><img src="assets/screenshots/validateabout.webp" alt="Validate About"></details>
-
-## contact.html
-<details><img src="assets/screenshots/validatecontact.webp" alt="Validate Contact"></details>
-
-## redirect.html
-<details><img src="assets/screenshots/validateredirect.webp" alt="Validate Redirect"></details>
-
-## .css
-<details><img src="assets/screenshots/validatecss.webp" alt="Validate CSS"></details>
+<img src="assets/screenshots/w3display.webp" alt="Validate Index">
 
 
 # DevTools & Lighthouse
@@ -106,10 +91,10 @@ All .html and .css pages of this website were validated through [validator.w3.or
 
 // Delete & Update pictures here //
 ## Desktop:
-<img src="assets/screenshots/lhdesktop.webp" alt="Lighthouse Desktop">
+<img src="assets/screenshots/lighthousedesktop.webp" alt="Lighthouse Desktop">
 
 ## Mobile:
-<img src="assets/screenshots/lhmobile.webp" alt="Lighthouse Mobile">
+<img src="assets/screenshots/lighthousemobile.webp" alt="Lighthouse Mobile">
 
 ## Technologies
 
