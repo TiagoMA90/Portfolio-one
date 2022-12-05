@@ -149,7 +149,7 @@ th, td   {
     border-radius: 5%;
 }
 
-div.container {
+.container {
     min-height: calc(100vh - 70px);
 }
 
