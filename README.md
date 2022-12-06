@@ -78,7 +78,12 @@ The website which is fully responsive on all screen sizes
 
 The website was tested in different Web browsers
 - The website was tested in Chrome, Firefox and Edge for its compatibility.
-- This website was tested using chromes extension WAVE Web Accessibility Evaluation Tool.
+
+This website was tested using chromes extension WAVE Web Accessibility Evaluation Tool.
+- This website was tested for all its pages and retrieved no Errors or Contrast errors.
+
+<img src="assets/screenshots/wave.webp" alt="wave sceenshot">
+
 - The website was tested for responsiveness and its viewports, under [bytes.dev](https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html)
 
 <img src="assets/screenshots/bytesdevresp.webp" alt="ui">
