@@ -19,22 +19,22 @@ The live website can be found [here](https://tiagoma90.github.io/water-world/ind
 - People who are primarly in search of therapeautic programs as a way to improve their health conditions.
 
 ## Design and Styling
-The website was designed with the intent of having a colour pallete of contrast, that is in parallel with the Spa itself.
+The website was designed with the intent of having a colour pallete of contrast to each other, that is in parallel with the Spa itself.
 - The color Hex #e6ddcd would then emulate the wooden properties of the Sauna while the #363636 and #777777 would mimic stone surfaces of the same.
 <img src="assets/screenshots/colors.webp" alt="Color palette">
 - The Fonts used for the Logo was [Megrim](https://fonts.google.com/specimen/Megrim) which gives a sophisticated and somewhat stylish look to the logo.
-- The Fonts used for the titles and text is [Athiti](https://fonts.google.com/specimen/Athiti?query=athiti), giving an accessible and readable style to the users first sight.
+- The Fonts used for the titles and text is [Athiti](https://fonts.google.com/specimen/Athiti?query=athiti), giving an accessible and readable style to the users.
 
 ## Navigation:
 The Navigation bar is divided into 3 sections.
 - The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of [Megrim](https://fonts.google.com/specimen/Megrim?query=megrim) fonts.
 - Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
 - The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it.
+<img src="assets/screenshots/nav.webp" alt="Navigation sceenshot">
 
-UPDATE THIS PICTURES
-
-## Header
+## Header/Background image
 - Is a background image of the common area of our Sauna area. It gives the users an idea of how our public facilities looks like.
+<img src="assets/screenshots/bckgrndimg.webp" alt="Background sceenshot">
 
 
 ## Index:
@@ -63,6 +63,7 @@ Once a message has been submited, users are directed to another page (redirect.h
 The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
 - It displays Street address, Postal code, Telephone number and E-mail.
 - It also includes links to the Social media sites (Facebook, Instagram, Youtube, Twiter) that open on external pages. Its purpose, to let users access explore other platforms where the website Water World is being promoted. The use of these icons was imported from FontAwesome.
+<img src="assets/screenshots/footer.webp" alt="Footer sceenshot">
 
 # Assay
 
@@ -70,8 +71,13 @@ The Footer is displayed in all pages, found at the bottom of the screen with use
 This project was tested under Chrome DevTools, using the Device Tool bar.
 - The website is responsive and displays a pleasing style to viewers, with colors contrasting each other.
 - The links work and are correctly assigned, allowing users to easily navigate between the pages within the wesite, on any given device.
-- The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to direct users to a greeting page and the method is set to "post". (The first and last names are not mandatory and therefore optional.)
-- The website was tested in different browsers such as Chrome, Firefox and Edge for its compatibility.
+- The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to direct users to a greeting page.
+
+The website which is fully responsive on all screen sizes
+- Testing was performed under Chromes Device Toolbar, by resizing and downsizing all pages.
+
+The website was tested in different Web browsers
+- The website was tested in Chrome, Firefox and Edge for its compatibility.
 - This website was tested using chromes extension WAVE Web Accessibility Evaluation Tool.
 - The website was tested for responsiveness and its viewports, under [bytes.dev](https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html)
 
@@ -86,9 +92,9 @@ All .html and .css pages of this website were validated through [validator.w3.or
 
 # DevTools & Lighthouse
 
-- All pages under Ingognito mode were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided by Chrome DevTools, with favorable scores.
+All pages under Ingognito mode were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided by Chrome DevTools, with favorable scores.
+- All pages returned very positive ratings well above 90%, with the exception of the about.html page on Mobile devices, which falls 78% due to its image contents.
 
-// Delete & Update pictures here //
 ## Desktop:
 <img src="assets/screenshots/lighthousedesktop.webp" alt="Lighthouse Desktop">
 
@@ -98,10 +104,11 @@ All .html and .css pages of this website were validated through [validator.w3.or
 ## Technologies
 
 Languages
+The website was written under HTML5 and CSS3.
 - HTML5 - Structure of the page
 - CSS3 - Style of the page
 
-Other
+Other forms of development as follows:
 - Tiny PNG - Image compresser
 - Convertio - Image converter
 - Font Awesome - Source of icons
@@ -113,12 +120,28 @@ Other
 
 ## Development & Deployment
 The project was developed using GitHub and GitPod platforms.
-- The website was deployed via Github and the live version can be found [here](https://tiagoma90.github.io/sauna-world/)
+
+- Navigate to: "Repositories" and create "New".
+- Mark the following fields: ✓ Public ✓ Add a README file.
+- Select template: "Code-Institute-Org/gitpod-full-template".
+- Add a Repository name: "water-world".
+- And create Repository.
+
+The website was deployed via Github and the live version can be found [here](https://tiagoma90.github.io/sauna-world/)
+
+This project was developed using GitPod and suffered various executions using the inbuild Terminal.
+- git add . - Command used before commiting.
+- git commit -m "written imperative declaration" - Command used to declare changes and updates.
+- git push - Command used to push all updates to the GitHub Repository and live version.
+- python -m http.server 8000 - Command used to load the website on port 8000.
 
 # Credits
 
 ## Content:
 - The text on this site was written my the author of this Website himself.
+- [codeinstitute](https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum) was used as guidance platform for the development of this project.
+- [w3schools](https://www.w3schools.com/) was used as guidance for mistakes and errors of thid project.
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) and  was used as guidance for CCS grids in this project.
 - The Fade-in transition for @keyframes on this website, was implememted following the tutorial in this [blog post](https://blog.hubspot.com/website/css-fade-in#image-transition)
 
 ## Fonts & Icons:
