@@ -127,13 +127,19 @@ The project was developed using GitHub and GitPod platforms.
 - Add a Repository name: "water-world".
 - And create Repository.
 
-The website was deployed via Github and the live version can be found [here](https://tiagoma90.github.io/sauna-world/)
-
 This project was developed using GitPod and suffered various executions using the inbuild Terminal.
 - git add . - Command used before commiting.
 - git commit -m "written imperative declaration" - Command used to declare changes and updates.
 - git push - Command used to push all updates to the GitHub Repository and live version.
 - python -m http.server 8000 - Command used to load the website on port 8000.
+
+The website was deployed via Github
+- Under the given Repository, navigate to "Settings".
+- Navigate to "Pages" from the left-hand bar.
+- From here the "Source" should be set to "Deploy from branch"
+- On "Branch" select "main" and save.
+
+The website was deployed via Github and the live version can be found [here](https://tiagoma90.github.io/sauna-world/)
 
 # Credits
 
