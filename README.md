@@ -81,7 +81,7 @@ Once a message has been submited, users are directed to another page (redirect.h
 ## Footer
 The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
 - It displays Street address, Postal code, Telephone number and E-mail.
-- It also includes links that open in another page Social media wsites (Facebook, Instagram, Youtube, Twiter). Its purpose, to let users access explore other platforms where the website Water World is being promoted.
+- It also includes links that externaly open Social media websites (Facebook, Instagram, Youtube, Twiter). Its purpose, to let users explore other platforms where the website Water World is being promoted.
 
 <img src="assets/screenshots/footer.webp" alt="Footer sceenshot">
 
@@ -90,12 +90,12 @@ The Footer is displayed in all pages, found at the bottom of the screen with use
 ## Testing:
 This project was tested under Chrome DevTools, using the Device Tool bar.
 - The website is responsive and displays a pleasing style to viewers, with colors contrasting each other.
-- The links work and are correctly assigned, allowing users to easily navigate between the pages within the wesite, on any given device.
+- The links work and are correctly assigned, allowing users to easily navigate between the pages within the website, on any given device.
 - The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to direct users to a greeting page.
 - The audio player plays in accordance to the Play button and users can adjust the valume, if necessary.
 - Social media links open in external pages, to each respective icon.
 
-The website which is fully responsive on all screen sizes
+The website is fully responsive on all screen sizes
 - Testing was performed under Chromes Device Toolbar, by resizing and downsizing all pages.
 
 The website was tested in different Web browsers
