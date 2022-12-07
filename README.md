@@ -18,10 +18,19 @@ The live website can be found [here](https://tiagoma90.github.io/water-world/ind
 - People who want to take advantage of wellness and leisure activities.
 - People who are primarly in search of therapeautic programs as a way to improve their health conditions.
 
+## Skeleton
+The website was designed and structured with <div>s grouped and organized in grids of fractions to make the content of the website clean.
+- The <body> has a main <div> under the class "container" that collects all elements, with the exception of the <footer>, to keep it below the <main> content.
+- Inside the <main> the we find <h2>s, <table>s, <p>s, <ul> and <li>. Furthermore <img>s, <audio> and <form> tags for its respective pages.
+- The structure of the page can be more or less defined for the overall website as seen below:
+<img src="assets/screenshots/skeleton.webp" alt="Skeleton of the body">
+
+
 ## Design and Styling
 The website was designed with the intent of having a colour pallete of contrast to each other, that is in parallel with the Spa itself.
 - The color Hex #e6ddcd would then emulate the wooden properties of the Sauna while the #363636 and #777777 would mimic stone surfaces of the same.
 <img src="assets/screenshots/colors.webp" alt="Color palette">
+
 - The Fonts used for the Logo was [Megrim](https://fonts.google.com/specimen/Megrim) which gives a sophisticated and somewhat stylish look to the logo.
 - The Fonts used for the titles and text is [Athiti](https://fonts.google.com/specimen/Athiti?query=athiti), giving an accessible and readable style to the users.
 
