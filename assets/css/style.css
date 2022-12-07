@@ -195,6 +195,13 @@ img {
     column-gap: 10px;
 }
 
+.imgpool {
+    height: 60%;
+    width: 100%;
+    border-radius: 2%;
+    
+}
+
 /* Contact Form properties */
 
 .title-contact  {

@@ -38,7 +38,7 @@ The website was designed with the intent of having a colour pallete of contrast 
 - The Fonts used for the Logo was [Megrim](https://fonts.google.com/specimen/Megrim) which gives a sophisticated and somewhat stylish look to the logo.
 - The Fonts used for the titles and text is [Athiti](https://fonts.google.com/specimen/Athiti?query=athiti), giving an accessible and readable style to the users.
 
-# Overview
+# Overview & Features
 ## Navigation:
 The Navigation bar is divided into 3 sections.
 - The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of [Megrim](https://fonts.google.com/specimen/Megrim?query=megrim) fonts.
