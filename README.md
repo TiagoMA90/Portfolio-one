@@ -19,10 +19,11 @@ The live website can be found [here](https://tiagoma90.github.io/water-world/ind
 - People who are primarly in search of therapeautic programs as a way to improve their health conditions.
 
 ## Skeleton
-The website was designed and structured with <div>s grouped and organized in grids of fractions to make the content of the website clean.
-- The <body> has a main <div> under the class "container" that collects all elements, with the exception of the <footer>, to keep it below the <main> content.
-- Inside the <main> the we find <h2>s, <table>s, <p>s, <ul> and <li>. Furthermore <img>s, <audio> and <form> tags for its respective pages.
-- The structure of the page can be more or less defined for the overall website as seen below:
+The website was designed and structured with divs grouped and organized in grids of fractions, to make the content of the website clean.
+- The body has a main div under the class "container" that collects all elements, with the exception of the footer, to keep it below the main content.
+- Inside the main the we find h2, table, p, ul, furthermore img, audio and form tags for its respective pages.
+- The structure of the page can be more or less defined and follows the skeleton for the overall website as seen below:
+
 <img src="assets/screenshots/skeleton.webp" alt="Skeleton of the body">
 
 
