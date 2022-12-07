@@ -19,7 +19,7 @@ The live website can be found [here](https://tiagoma90.github.io/water-world/ind
 - People who are primarly in search of therapeautic programs as a way to improve their health conditions.
 
 
-# The Website
+# Process
 ## Skeleton
 The website was designed and structured with divs grouped and organized in grids of fractions, to make the content of the website clean.
 - The body has a main div under the class "container" that collects all elements, with the exception of the footer, to keep it below the main content.
@@ -32,6 +32,7 @@ The website was designed and structured with divs grouped and organized in grids
 ## Design and Styling
 The website was designed with the intent of having a colour pallete of contrast to each other, that is in parallel with the Spa itself.
 - The color Hex #e6ddcd would then emulate the wooden properties of the Sauna while the #363636 and #777777 would mimic stone surfaces of the same.
+
 <img src="assets/screenshots/colors.webp" alt="Color palette">
 
 - The Fonts used for the Logo was [Megrim](https://fonts.google.com/specimen/Megrim) which gives a sophisticated and somewhat stylish look to the logo.
@@ -41,24 +42,27 @@ The website was designed with the intent of having a colour pallete of contrast 
 ## Navigation:
 The Navigation bar is divided into 3 sections.
 - The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of [Megrim](https://fonts.google.com/specimen/Megrim?query=megrim) fonts.
-- Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website.
+- Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website (Home) (About) (Contact).
 - The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it.
+
 <img src="assets/screenshots/nav.webp" alt="Navigation sceenshot">
 
 ## Header/Background image
 - Is a background image of the common area of our Sauna area. It gives the users an idea of how our public facilities looks like.
+
 <img src="assets/screenshots/bckgrndimg.webp" alt="Background sceenshot">
 
 
 ## Index:
 The "Index" page gives information and lets the user know what the site is about, through informative slogans.
 - It gives a brief introduction to our Spa services and the opening times/prices for the Spa facilities.
+- Users are quick to understand what this website is about.
 
 ## About:
 The "About" page gives a slightly detailed description of the Pool and Saunas areas of the Spa.
 - In sum, images with descriptive text organized one after the other. It lets users scroll down and have a brief idea of the services.
 - It includes icons imported from [FontAwesome](https://fontawesome.com/), and briefly describes the temperature, humity and average time a guest should be in a particular sauna.
-- An Audio player is availabe with a song entitled "Bless those tired eyes". The Audio player does not automatically play to prevent unwanted sound for the user experience. 
+- An Audio player is availabe with a song entitled "Bless those tired eyes". The Audio player does not automatically play to prevent unwanted sound for abetter user experience. 
 
 ## Contact:
 The "Contact" page lets users provide feedback about their experiences and services. Users are required to provide their email in order to submit their message.
@@ -69,13 +73,16 @@ The Form consists of the following fields (labels have been hidden, making use o
 - Email (required)
 - Message (required)
 
+<img src="assets/screenshots/contact.webp" alt="contact sceenshot">
+
 Once a message has been submited, users are directed to another page (redirect.html), while being greeted with a "Thank you" message and asking them to be redirected to the "Home" page.
 
 
 ## Footer
 The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
 - It displays Street address, Postal code, Telephone number and E-mail.
-- It also includes links to the Social media sites (Facebook, Instagram, Youtube, Twiter) that open on external pages. Its purpose, to let users access explore other platforms where the website Water World is being promoted. The use of these icons was imported from FontAwesome.
+- It also includes links that open in another page Social media wsites (Facebook, Instagram, Youtube, Twiter). Its purpose, to let users access explore other platforms where the website Water World is being promoted.
+
 <img src="assets/screenshots/footer.webp" alt="Footer sceenshot">
 
 # Assay
@@ -85,19 +92,22 @@ This project was tested under Chrome DevTools, using the Device Tool bar.
 - The website is responsive and displays a pleasing style to viewers, with colors contrasting each other.
 - The links work and are correctly assigned, allowing users to easily navigate between the pages within the wesite, on any given device.
 - The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to direct users to a greeting page.
+- The audio player plays in accordance to the Play button and users can adjust the valume, if necessary.
+- Social media links open in external pages, to each respective icon.
 
 The website which is fully responsive on all screen sizes
 - Testing was performed under Chromes Device Toolbar, by resizing and downsizing all pages.
 
 The website was tested in different Web browsers
-- The website was tested in Chrome, Firefox and Edge for its compatibility.
+- Testing was done in Chrome, Firefox and Edge for its compatibility.
 
 This website was tested using chromes extension WAVE Web Accessibility Evaluation Tool.
-- This website was tested for all its pages and retrieved no Errors or Contrast errors.
+- Testing and examination was for all its pages and retrieved no Errors or Contrast errors.
 
 <img src="assets/screenshots/wave.webp" alt="wave sceenshot">
 
-- The website was tested for responsiveness and its viewports, under [bytes.dev](https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html)
+The website was tested for responsiveness and its viewports.
+- Testing was conducted under [bytes.dev](https://ui.dev/amiresponsive?url=https://tiagoma90.github.io/Portfolio-one/index.html)
 
 <img src="assets/screenshots/bytesdevresp.webp" alt="ui">
 
@@ -127,14 +137,14 @@ The website was written under HTML5 and CSS3.
 - CSS3 - Style of the page
 
 Other forms of development as follows:
-- Tiny PNG - Image compresser
-- Convertio - Image converter
-- Font Awesome - Source of icons
-- Google Fonts - Source of fonts
-- Github - Host for the repository
-- Gitpod - Code editor
+- [Tiny PNG](https://tinypng.com/) - Image compresser
+- [Convertio](https://convertio.co/de/png-webp/) - Image converter
+- [Font Awesome](https://fontawesome.com/) - Source of icons
+- [Google Fonts](https://fonts.google.com/) - Source of fonts
+- [Github](https://github.com/) - Host for the repository
+- [Gitpod](https://gitpod.io/) - Code editor
 - Chrome DevTools - Testing tool
-- WAVE Evaluation tool - Testeing tool
+- [WAVE Evaluation tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) - Testeing tool
 
 ## Development & Deployment
 The project was developed using GitHub and GitPod platforms.
