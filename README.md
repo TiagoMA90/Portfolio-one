@@ -101,7 +101,7 @@ The website is fully responsive on all screen sizes
 The website was tested in different Web browsers
 - Testing was done in Chrome, Firefox and Edge for its compatibility.
 
-This website was tested using chromes extension WAVE Web Accessibility Evaluation Tool.
+The website was tested using chromes extension WAVE Web Accessibility Evaluation Tool.
 - Testing and examination was for all its pages and retrieved no Errors or Contrast errors.
 
 <img src="assets/screenshots/wave.webp" alt="wave sceenshot">
@@ -172,7 +172,7 @@ The website was deployed via Github and the live version can be found [here](htt
 # Credits
 
 ## Content:
-- The text on this site was written my the author of this Website himself.
+- The text on this site was written by the author of this Website himself.
 - [codeinstitute](https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum) was used as guidance platform for the development of this project.
 - [w3schools](https://www.w3schools.com/) was used as guidance for mistakes and errors of thid project.
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) and  was used as guidance for CCS grids in this project.
