@@ -113,8 +113,24 @@ The website was tested for responsiveness and its viewports.
 
 
 # Validation:
-All .html and .css pages of this website were validated through [validator.w3.org](https://validator.w3.org/#validate_by_input) and found no errors or warnings whatsoever, via URL and Direct Input.
+All .html and .css pages of this website were validated through [validator.w3.org](https://validator.w3.org/#validate_by_input) & [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator) and found no errors or warnings whatsoever, via URL and Direct Input.
+Write custom HTML code that passes through the official W3C validator with no issues.
+- HTML code that passed through the official W3C validator with no issues.
+- CSS code that passed through the official (Jigsaw) validator with no issues
 
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="CSS ist valide!" />
+    </a>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="CSS ist valide!" />
+    </a>
+</p>
+      
 <img src="assets/screenshots/w3display.webp" alt="Validate Index">
 
 
