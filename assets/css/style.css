@@ -99,6 +99,18 @@ header {
     padding-top: 10px;
 }
 
+/* Redirect button property style */
+
+.redirect a {
+    text-decoration: none;
+    color:#777777;
+}
+
+.redirect a:hover {
+    color:#363636;
+    
+}
+
 /* Header image properties*/
 
 .pic {
