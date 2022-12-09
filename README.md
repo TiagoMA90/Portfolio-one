@@ -116,8 +116,16 @@ The website was tested for responsiveness and its viewports.
 
 # Validation:
 All .html and .css pages of this website were validated through [validator.w3.org](https://validator.w3.org/#validate_by_input) & [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator) and found no errors or warnings whatsoever, via URL and Direct Input.
-- HTML codepassed through the official W3C validator with no issues. See following links: [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Findex.html) [about.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Fabout.html)
-- CSS code passed through the official (Jigsaw) validator with no issues
+
+HTML codepassed through the official W3C validator with no issues.
+See following links:
+- [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Findex.html)
+- [about.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Fabout.html)
+- [contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Fcontact.html)
+- [redirect.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Fredirect.html)
+
+CSS code passed through the official (Jigsaw) validator with no issues
+- [style.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
@@ -131,7 +139,7 @@ All .html and .css pages of this website were validated through [validator.w3.or
             alt="CSS ist valide!" />
         </a>
 </p>
-      
+
 <img src="assets/screenshots/w3display.webp" alt="Validate Index">
 
 
