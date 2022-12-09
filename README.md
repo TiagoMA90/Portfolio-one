@@ -31,7 +31,7 @@ The website was designed and structured with divs grouped and organized in grids
 
 ## Design and Styling
 The website was designed with the intent of having a colour pallete of contrast to each other, that is in parallel with the Spa itself.
-- The color Hex #e6ddcd would then emulate the wooden properties of the Sauna while the #363636 and #777777 would mimic stone surfaces of the same.
+- The color Hex [#e6ddcd](https://www.color-hex.com/color/e6ddcd) would then emulate the wooden properties of the Sauna while the [#363636](https://www.color-hex.com/color/363636) and [#777777](https://www.color-hex.com/color/777777) would mimic stone surfaces of the same.
 
 <img src="assets/screenshots/colors.webp" alt="Color palette">
 
