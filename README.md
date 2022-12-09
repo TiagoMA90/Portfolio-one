@@ -42,7 +42,7 @@ The website was designed with the intent of having a colour pallete of contrast 
 ## Navigation:
 The Navigation bar is divided into 3 sections.
 - The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of [Megrim](https://fonts.google.com/specimen/Megrim?query=megrim) fonts.
-- Located at the Top-right corner of the screen is our menu with "Home", "About" and "Contact" tabs that directs users to diferent pages linked within this website (Home) (About) (Contact).
+- Located at the Top-right corner of the screen is our menu with [Home](https://tiagoma90.github.io/water-world/index.html), [About](https://tiagoma90.github.io/water-world/about.html) and [Contact](https://tiagoma90.github.io/water-world/contact.html) tabs that directs users to diferent pages linked within this website.
 - The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it.
 
 <img src="assets/screenshots/nav.webp" alt="Navigation sceenshot">
@@ -75,7 +75,7 @@ The Form consists of the following fields (labels have been hidden, making use o
 
 <img src="assets/screenshots/contact.webp" alt="contact sceenshot">
 
-Once a message has been submited, users are directed to another page (redirect.html), while being greeted with a "Thank you" message and asking them to be redirected to the "Home" page.
+Once a message has been submited, users are directed to another page [Redirect](https://tiagoma90.github.io/water-world/redirect.html?), while being greeted with a "Thank you" message and asking them to redirect themselves to the "Home" page via the provided link.
 
 
 ## Footer
