@@ -64,6 +64,8 @@ The "About" page gives a slightly detailed description of the Pool and Saunas ar
 - It includes icons imported from [FontAwesome](https://fontawesome.com/), and briefly describes the temperature, humity and average time a guest should be in a particular sauna.
 - An Audio player is availabe with a song entitled "Bless those tired eyes". The Audio player does not automatically play to prevent unwanted sound for abetter user experience. 
 
+<img src="assets/screenshots/about.webp" alt="about sceenshot">
+
 ## Contact:
 The "Contact" page lets users provide feedback about their experiences and services. Users are required to provide their email in order to submit their message.
 The Form consists of the following fields (labels have been hidden, making use of the placeholder instead):
