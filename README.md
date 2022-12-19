@@ -43,7 +43,7 @@ The website was designed with the intent of having a colour pallete of contrast 
 The Navigation bar is divided into 3 sections.
 - The Icon is located at the Top-Left of the screen entitled Sauna World. It makes use of [Megrim](https://fonts.google.com/specimen/Megrim?query=megrim) fonts.
 - Located at the Top-right corner of the screen is our menu with [Home](https://tiagoma90.github.io/water-world/index.html), [About](https://tiagoma90.github.io/water-world/about.html) and [Contact](https://tiagoma90.github.io/water-world/contact.html) tabs that directs users to diferent pages linked within this website.
-- The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it.
+- The links are highlighted when the cursor hovers over the selected elements, giving a much more intreactive feeling to it, after the pesudo class :hover.
 
 <img src="assets/screenshots/nav.webp" alt="Navigation sceenshot">
 
@@ -62,7 +62,7 @@ The "Index" page gives information and lets the user know what the site is about
 The "About" page gives a slightly detailed description of the Pool and Saunas areas of the Spa.
 - In sum, images with descriptive text organized one after the other. It lets users scroll down and have a brief idea of the services.
 - It includes icons imported from [FontAwesome](https://fontawesome.com/), and briefly describes the temperature, humity and average time a guest should be in a particular sauna.
-- An Audio player is availabe with a song entitled "Bless those tired eyes". The Audio player does not automatically play to prevent unwanted sound for abetter user experience. 
+- An Audio player is availabe with a song entitled "Bless those tired eyes". The Audio player does not automatically play, to prevent unwanted sound. Ergo, giving a better user experience. 
 
 <img src="assets/screenshots/about.webp" alt="about sceenshot">
 
@@ -82,8 +82,8 @@ Once a message has been submited, users are directed to another page [Redirect](
 
 ## Footer
 The Footer is displayed in all pages, found at the bottom of the screen with useful information for the user.
-- It displays Street address, Postal code, Telephone number and E-mail.
-- It also includes links that externaly open Social media websites (Facebook, Instagram, Youtube, Twiter). Its purpose, to let users explore other platforms where the website Water World is being promoted.
+- It displays the Street address, Postal code, Telephone number and E-mail.
+- It also includes links that externaly open the Social media websites (Facebook, Instagram, Youtube, Twiter). Its purpose, to let users explore other platforms where the website Water World is being promoted.
 
 <img src="assets/screenshots/footer.webp" alt="Footer sceenshot">
 
@@ -94,7 +94,7 @@ This project was tested under Chrome DevTools, using the Device Tool bar.
 - The website is responsive and displays a pleasing style to viewers, with colors contrasting each other.
 - The links work and are correctly assigned, allowing users to easily navigate between the pages within the website, on any given device.
 - The Form works accordingly, where users are required to input their e-mail and message before sending any feedback. The action is set to direct users to a greeting page.
-- The audio player plays in accordance to the Play button and users can adjust the valume, if necessary.
+- The audio player plays in accordance to the Play button and users can adjust the volume, if necessary.
 - Social media links open in external pages, to each respective icon.
 
 The website is fully responsive on all screen sizes
@@ -104,7 +104,7 @@ The website was tested in different Web browsers
 - Testing was done in Chrome, Firefox and Edge for its compatibility.
 
 The website was tested using chromes extension WAVE Web Accessibility Evaluation Tool.
-- Testing and examination was for all its pages and retrieved no Errors or Contrast errors.
+- Testing and examination was done for all its pages and retrieved no Errors or Contrasting errors.
 
 <img src="assets/screenshots/wave.webp" alt="wave sceenshot">
 
@@ -115,9 +115,9 @@ The website was tested for responsiveness and its viewports.
 
 
 # Validation:
-All .html and .css pages of this website were validated through [validator.w3.org](https://validator.w3.org/#validate_by_input) & [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator) and found no errors or warnings whatsoever, via URL and Direct Input.
+All .html and .css pages of this website were validated through [validator.w3.org](https://validator.w3.org/#validate_by_input) & [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator) and found no errors or warnings whatsoever, both via URL and Direct Input.
 
-HTML codepassed through the official W3C validator with no issues.
+HTML code passed through the official W3C validator with no issues.
 See following links:
 - [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Findex.html)
 - [about.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagoma90.github.io%2Fwater-world%2Fabout.html)
@@ -146,7 +146,7 @@ CSS code passed through the official (Jigsaw) validator with no issues
 # DevTools & Lighthouse
 
 All pages under Ingognito mode were scanned for Performance, Accessibility, Best Practices and SEO for both Desktop and Mobile devices under the Lighthouse function provided by Chrome DevTools, with favorable scores.
-- All pages returned very positive ratings well above 90%, with the exception of the about.html page on Mobile devices, which falls 78% due to its image contents.
+- All pages returned very positive ratings well above 90%, with the exception of the about.html page on Mobile devices, which falls 78%.
 
 ## Desktop:
 <img src="assets/screenshots/lighthousedesktop.webp" alt="Lighthouse Desktop">
@@ -154,9 +154,9 @@ All pages under Ingognito mode were scanned for Performance, Accessibility, Best
 ## Mobile:
 <img src="assets/screenshots/lighthousemobile.webp" alt="Lighthouse Mobile">
 
-## Technologies
+# Technologies
 
-Languages
+## Languages
 The website was written under HTML5 and CSS3.
 - HTML5 - Structure of the page
 - CSS3 - Style of the page
