@@ -25,6 +25,8 @@ h1  {
 
 h2  {
     padding-top: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 p   {
@@ -32,6 +34,8 @@ p   {
     margin-bottom: 30px;
     font-size: 150%;
     color: #777777;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 hr  {
