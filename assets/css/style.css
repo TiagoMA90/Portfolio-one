@@ -313,6 +313,13 @@ audio   {
         text-align: center;
         display: block;
     }
+    .index-panel {
+        text-align: center;
+        display: block;
+    }
+    hr  {
+        margin: auto;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -330,7 +337,6 @@ audio   {
         margin: auto;
         grid-gap: 20px;
     }
-
 }
 /* Animation for the body */
 
